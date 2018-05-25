@@ -1,4 +1,4 @@
-# Codes for Joey Tianyi Zhou, Heng Zhao, Xi Peng, Meng Fang, Zheng Qin and Rick Siow Mong Goh, "Transfer Hashing: From Shallow To Deep", Transaction on Neural Network and Learning Systems (TNNLS)
+## Codes for Joey Tianyi Zhou, Heng Zhao, Xi Peng, Meng Fang, Zheng Qin and Rick Siow Mong Goh, "Transfer Hashing: From Shallow To Deep", Transaction on Neural Network and Learning Systems (TNNLS)
 
 # A demo for Deep Transfer Hashing #
   
