@@ -22,4 +22,5 @@
 * hash_test.m
 
 # Citation
-* Joey Tianyi Zhou, Heng Zhao, Xi Peng, Meng Fang, Zheng Qin and Rick Siow Mong Goh, "Transfer Hashing: From Shallow To Deep", Transaction on Neural Network and Learning Systems (TNNLS)
+*  Joey Tianyi Zhou, Heng Zhao, Xi Peng, Meng Fang, Zheng Qin and Rick Siow Mong Goh, "Transfer Hashing: From Shallow To Deep", Transaction on Neural Network and Learning Systems (TNNLS)
+*  Joey Tianyi Zhou, Xinxing Xu, Sinno J. Pan, Ivor W. Tsang, Zheng Qin, and Rick Siow Mong Goh. "Transfer Hashing with Privileged Information,"  in Proceedings of the 25th International Joint Conference on Artificial Intelligence (IJCAI-16), NYC, USA, 2016.
